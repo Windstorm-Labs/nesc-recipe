@@ -71,7 +71,7 @@ Each repo ships the canonical scripts directly so reproduction doesn't require n
 
 ## In the Series
 
-### Track 2 — Entropic Bounds in Analog Systems · 6 papers (Papers 10–15)
+### Track 2 — Entropic Bounds in Analog Systems · 7 papers (Papers 10–16)
 
 | # | Paper | DOI | Labs mirror |
 |---|---|---|---|
@@ -81,6 +81,7 @@ Each repo ships the canonical scripts directly so reproduction doesn't require n
 | 13 | [Lattice QFT Test of the Static Escrow Postulate](https://github.com/Windstorm-Institute/lattice-qft-test) | [10.5281/zenodo.20057538](https://doi.org/10.5281/zenodo.20057538) | [Labs](https://github.com/Windstorm-Labs/lattice-qft-test) |
 | 14 | [Spacetime as Escrow Bookkeeping](https://github.com/Windstorm-Institute/escrow-spacetime) | [10.5281/zenodo.20126091](https://doi.org/10.5281/zenodo.20126091) | [Labs](https://github.com/Windstorm-Labs/escrow-spacetime) |
 | 15 | [The 𝒩<sub>esc</sub> Recipe](https://github.com/Windstorm-Institute/nesc-recipe) *(this paper)* | [10.5281/zenodo.20145106](https://doi.org/10.5281/zenodo.20145106) | [Labs](https://github.com/Windstorm-Labs/nesc-recipe) |
+| 16 | [The Compton Corollary](https://github.com/Windstorm-Institute/compton-corollary) | [10.5281/zenodo.20163451](https://doi.org/10.5281/zenodo.20163451) | [Labs](https://github.com/Windstorm-Labs/compton-corollary) |
 
 ---
 
